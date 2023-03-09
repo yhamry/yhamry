@@ -25,3 +25,6 @@ I'm a Creative, dedicated, and technical Full Stack engineer thriving in high-pa
   <img alt="Firebase" title="Firebase" height="55" src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png">
   <img alt="NuxtJS" title="NuxtJS" height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png">
 </p>
+
+<br/>
+<a href="https://github.com/yhamry/yhamry/blob/main/Omer%20Fishman%20CV.pdf" download>Download my CV file</a>

@@ -27,4 +27,4 @@ I'm a Creative, dedicated, and technical Full Stack engineer thriving in high-pa
 </p>
 
 <br/>
-<a href="https://github.com/yhamry/yhamry/blob/main/Omer%20Fishman%20CV.pdf" download>Download my CV file</a>
+<a href="https://github.com/yhamry/yhamry/blob/main/Omer%20Fishman%20CV.pdf" download>Get my CV file</a>

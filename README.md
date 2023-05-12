@@ -10,7 +10,7 @@ I'm a Creative, dedicated, and technical Full Stack engineer thriving in high-pa
 
 ## 🤠 Me
 - 👨🏼‍🤝‍👨🏽 I’m looking to collaborate on open source projects
-- 💼 I’m open for contributing to projects and
+- 💼 I’m open for contributing to projects
 - 🤔 I'm open for opportunities
 - ✉️ How to reach me: omerfishman.work@gmail.com
 - 🎸 Fun fact: I play guitar for 20 years
